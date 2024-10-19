@@ -126,6 +126,7 @@ Steps involved in the Clustering:
 
 
 ![Screenshot 2024-07-26 004550](https://github.com/user-attachments/assets/510c002b-4775-4d11-baa3-20244a5d2a62)
+     
      Fig 2:  fitting the Agglomerative Clustering Model to get the final clusters.
 
 
